@@ -1,7 +1,7 @@
-# Tauri + Vanilla TS
+# Repro
 
-This template should help get you started developing with Tauri in vanilla HTML, CSS and Typescript.
-
-## Recommended IDE Setup
-
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+1. Build the app `pnpm tauri build`
+2. Open the app
+3. Click on `New Window`
+4. Close the newly opened window
+5. crash
